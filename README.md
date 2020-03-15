@@ -14,3 +14,19 @@ Another version of this PDCA cycle is OPDCA. The added “O” stands for observ
 ## Observe
 
 See also [README.md](./observe/README.md)
+
+## Plan
+
+See also [README.md](./plan/README.md)
+
+## Do
+
+See also [README.md](./do/README.md)
+
+## Check
+
+See also [README.md](./check/README.md)
+
+## Act
+
+See also [README.md](./act/README.md)
