@@ -11,7 +11,7 @@ PDCA (Plan–Do–Check–Act or Plan–Do–Check–Adjust) is an iterative fou
 
 Another version of this PDCA cycle is OPDCA. The added “O” stands for observation or as some versions say “Grasp the current condition.” This emphasis on observation and current condition has currency with Lean manufacturing / Toyota Production System literature. 
 
-![OPDCA Participants](./OPDCA_participants.PNG)
+![OPDCA Participants](https://github.com/vanHeemstraSystems/observe-plan-do-check-act-headstart/blob/master/OPDCA_participants.PNG)
 
 ## Observe
 
