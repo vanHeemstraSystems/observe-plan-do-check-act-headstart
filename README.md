@@ -3,6 +3,8 @@ observe-plan-do-check-act-headstart
 
 Based on "Are PDCA & DAMIC MetaProcesses?" at http://www.brsolutions.com/tag/opdsa/
 
+See also video "OPDCA" at https://www.youtube.com/watch?v=0OZjZM0fEs4
+
 PDCA (Plan–Do–Check–Act or Plan–Do–Check–Adjust) is an iterative four-step management method used in business for the control and continuous improvement of processes and products. It is also known as the:
 
 - Deming circle/cycle/wheel.
